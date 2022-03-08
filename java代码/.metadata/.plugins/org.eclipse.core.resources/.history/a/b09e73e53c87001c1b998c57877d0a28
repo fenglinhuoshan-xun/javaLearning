@@ -1,0 +1,27 @@
+package com.bjpowernode.javase.test012;
+
+public class Account {
+	
+	private String actnc;
+	private double balance;
+	public Account() {
+	}
+	public Account(String actnc, double balance) {
+		this.actnc = actnc;
+		this.balance = balance;
+	}
+	public String getActnc() {
+		return actnc;
+	}
+	public void setActnc(String actnc) {
+		this.actnc = actnc;
+	}
+	public double getBalance() {
+		return balance;
+	}
+	public void setBalance(double balance) {
+		this.balance = balance;
+	}
+	
+	
+}

@@ -1,0 +1,90 @@
+1. java的集成开发环境，目前主流的集成开发环境是：IntelliJ IDEA
+	这只是一个工具，不要让一个工具把你难住了
+    开发工具不要使用汉化版（太low）
+    英语单词太多不要怕，记位置（一共就那么几个主要的操作位置）
+    
+2. 安装IDEA工具，自己课下按照破解文档进行破解
+    
+3. IDEA工具的使用：
+	-- 第一次打开的时候，会弹出一个窗口（import idea settings）:
+        * 这个表示导入idea的设置，但我们是第一次使用idea工具，没有设置过idea，所以这里选择：do not import settings...不导入设置
+        * 如；以前的idea，设置的字体大小啊，工作布局方式啊等等，对于idea工具来说，可能会生成一个属性文件，可以把这个属性文件导入进来使用
+
+    -- 第二步：会让你接收条款，接受即可
+
+    -- 第三步：don't send
+
+    -- 第四步：一直下一步（最终选择免费试用30天）
+
+    -- 第五步；可能会让你填写email等信息，这里不填写，继续continue
+
+    -- 第六步：弹出welcome窗口：
+        * 点击create new project（注意：在IDEA当中，一个project相当于myeclipse当中的一个workspace）
+
+    -- 第七步：新建一个Empty Project
+        * 新建一个空的工程，选择创建工程窗口下面“最后的那一项”，Empty Project
+
+    -- 第八步：给空的工程起一个名字：javase，选择工程的存储路径，点击finish
+
+    -- 第九步：自动弹出一个每日提示，这个每日提示可以取消掉，以后每一次打开就不再提示了
+
+    -- 第十步：会自动弹出一个窗口：project structure，这个窗口先取消掉
+
+    -- 第十一步：在空的工程下，新建Module（模块），IDEA中的模块类似于myeclipse当中的project
+        * myeclipse的组织方式：
+            - workspace --> project 
+
+        * idea的组织方式：
+            - project --> module
+
+        * 怎么创建Module？
+            File菜单 --> new --> Module
+
+    -- 第十二步：在New Module窗口上，点击左上角的java，然后点击next
+
+    -- 第十三步：给module起一个名字：chapter15
+
+    -- 第十四步：编写代码，在src目录下新建类，写代码，并运行
+
+4. 关于IDEA工具的快捷键以及一些简单的设置：
+    -- 字体设置：
+        File菜单 --> settings --> 输入font --> 设置字体样式以及字号大小
+
+    -- 快速生成main方法：
+        psvm，回车
+
+    -- 快速生成System.out.println();
+        sout，回车
+
+    -- 注意：IDEA是自动保存，不需要ctrl + s
+
+    -- 删除一行：ctrl + y
+
+    -- 怎么运行？
+        * 代码上右键 --> run
+        * 或者点击左侧的绿色箭头
+        * 快捷键：ctrl + shift + F10
+
+    -- 左侧窗口中的列表怎么展开，怎么关闭？
+        * 左箭头关闭，右箭头展开，上下箭头移动
+
+    -- idea中退出任何窗口，都可以使用esc键
+
+    -- 任何新增/新建/添加的快捷键是：alt + insert键，窗口直接输入即可
+
+    -- 窗口变大变小：ctrl + shift + F12
+
+    -- 切换java程序，从HelloWorld切换到User：alt + 左/右箭头
+
+    -- 当窗口上有标号时，切换窗口：alt + 标号
+        alt + 1：（打开关闭）
+
+    -- 将光标移到()中，提示方法的参数：ctrl + p
+
+
+
+
+
+
+
+    

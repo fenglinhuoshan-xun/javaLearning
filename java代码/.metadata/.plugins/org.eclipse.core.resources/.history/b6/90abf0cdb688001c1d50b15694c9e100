@@ -1,0 +1,16 @@
+package com.bjpowernode.javase.test002;
+
+/**
+ * 多态在实际开发中的作用：以下以主人喂养宠物为例，说明多态的作用：
+ *  1. 分析：主人喂养宠物这个场景要实现，需要进行类型的抽象：
+ *  	-- 主人【类】
+ *  	-- 主人可以喂养宠物，所以主人有喂养的这个动作
+ *  	-- 宠物【类】 
+ *
+ */
+public class Test {
+
+	public static void main(String[] args) {
+		
+	}
+}

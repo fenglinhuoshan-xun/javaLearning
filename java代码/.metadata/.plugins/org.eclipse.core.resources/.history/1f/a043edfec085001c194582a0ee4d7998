@@ -1,0 +1,9 @@
+package com.bjpowernode.javase.test011;
+
+/**
+ * 数学工具类 
+ *
+ */
+public class MathUtil {
+
+}

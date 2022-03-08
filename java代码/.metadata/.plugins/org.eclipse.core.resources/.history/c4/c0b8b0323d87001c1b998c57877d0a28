@@ -1,0 +1,23 @@
+package com.bjpowernode.javase.test012;
+
+public class CreditAccount {
+	
+	private String actno;
+	private double balance;
+	private double credit;
+	
+	public CreditAccount() {
+	}
+	public CreditAccount(String actno, double balance, double credit) {
+		this.actno = actno;
+		this.balance = balance;
+		this.credit = credit;
+	}
+	public double getCredit() {
+		return credit;
+	}
+	public void setCredit(double credit) {
+		this.credit = credit;
+	}
+	
+}

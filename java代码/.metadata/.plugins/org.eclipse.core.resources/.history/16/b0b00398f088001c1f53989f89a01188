@@ -1,0 +1,14 @@
+package com.bjpowernode.javase.test003;
+
+public class FinalTest04 {
+
+}
+
+
+// 中国人类
+class Chinese{
+	
+	// 国籍
+	// 假设需求：每一个中国人的国籍都是中国，而且国籍不会发生改变
+	String country = "中国";
+}

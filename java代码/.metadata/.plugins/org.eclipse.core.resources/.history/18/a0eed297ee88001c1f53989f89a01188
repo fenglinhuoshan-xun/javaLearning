@@ -1,0 +1,8 @@
+package com.bjpowernode.javase.test003;
+
+public class FinalTest03 {
+
+	public static void main(String[] args) {
+		
+	}
+}

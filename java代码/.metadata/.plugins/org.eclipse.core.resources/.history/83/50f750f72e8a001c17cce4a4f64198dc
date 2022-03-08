@@ -1,0 +1,15 @@
+package com.bjpowernode.javase.test004;
+
+import com.bjpowernode.javase.test002.*;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		// ±àÒë´íÎó
+		Cat c = new Cat();
+		
+		com.bjpowernode.javase.test002.Cat
+	}
+
+}

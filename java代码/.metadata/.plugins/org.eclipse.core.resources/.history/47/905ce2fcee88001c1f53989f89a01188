@@ -1,0 +1,15 @@
+package com.bjpowernode.javase.test003;
+
+public class FinalTest03 {
+
+	public static void main(String[] args) {
+		
+		// 创建用户对象
+		User u = new User(100);
+		
+		// 又创建了一个新的User对象
+		// 程序执行到此处表示以上对象已变成垃圾数据，等待垃圾回收器的回收
+		u= new User(200);
+		
+	}
+}

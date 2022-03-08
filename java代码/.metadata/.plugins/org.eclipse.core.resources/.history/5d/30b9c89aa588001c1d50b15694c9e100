@@ -1,0 +1,13 @@
+package com.bjpowernode.javase.test001;
+
+public class Test2 {
+	
+	public static void main(String[] args) {
+		// 父类型引用指向子类对象
+		Animal a1 = new Cat();
+		Animal a2 = new Bird();
+		
+		Cat c1 = (Cat)a1;
+	}
+
+}

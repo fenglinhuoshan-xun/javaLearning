@@ -1,0 +1,17 @@
+package com.bjpowernode.javase.test003;
+
+public class FinalTest02 {
+	
+	// 成员变量之实例变量
+	final int age = 10;
+	
+	
+	public static void main(String[] args) {
+		
+		final int a;
+		a = 100;
+		// 不可二次赋值
+		// a = 200;
+	}
+
+}

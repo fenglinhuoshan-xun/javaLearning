@@ -1,0 +1,11 @@
+package com.bjpowernode.javase.test013;
+
+/**
+ * 回顾java语言当中的方法重载：
+ * 	1. 方法重载又称为Overload
+ * 关于java语言当中方法的覆盖： 
+ *
+ */
+public class OverrideTest01 {
+
+}

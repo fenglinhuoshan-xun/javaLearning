@@ -1,0 +1,12 @@
+package com.bjpowernode.javase.test012;
+
+/**
+ * 关于java语言当中的继承： 
+ *
+ */
+public class ExtendsTest {
+
+	public static void main(String[] args) {
+		
+	}
+}

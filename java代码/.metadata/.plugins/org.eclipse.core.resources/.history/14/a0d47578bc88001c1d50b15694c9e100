@@ -1,0 +1,33 @@
+package com.bjpowernode.javase.test002;
+
+/**
+ * 主人类
+ */
+
+// 这种方式没有使用java语言当中的多态机制，存在缺点：Master的扩展力很差，因为只要加一个新的宠物，Master类就需要添加一个新的方法
+/*
+public class Master {
+	
+	// 喂养宠物的方法	
+	
+	public void feed(Cat c) {
+		c.eat();
+	}
+	
+	public void feed(Dog d) {
+		d.eat();
+	}
+// Master和Cat、Dog这两个类型的关联程度很强，耦合度很高
+*/
+	
+	// 降低程序的耦合度【解耦合】，提高程序的扩展力【软件开发的一个很重要的目标】
+	public void feed(Cat c) {
+		c.eat();
+	}
+	
+	public void feed(Dog d) {
+		d.eat();
+	}
+	
+	
+}

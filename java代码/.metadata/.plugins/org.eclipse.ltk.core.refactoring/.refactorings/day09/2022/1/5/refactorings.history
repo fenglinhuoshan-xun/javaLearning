@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.bjpowernode.javase.test004&apos; to &apos;com.bjpowernode.javase.day09.test004&apos;&#x0D;&#x0A;- Original project: &apos;day09&apos;&#x0D;&#x0A;- Original element: &apos;day09/src/com.bjpowernode.javase.test004&apos;&#x0D;&#x0A;- Renamed element: &apos;day09/src/com.bjpowernode.javase.day09.test004&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.bjpowernode.javase.test004&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.bjpowernode.javase.test004" name="com.bjpowernode.javase.day09.test004" qualified="false" references="true" stamp="1642945237174" textual="false" version="1.0"/>
+</session>

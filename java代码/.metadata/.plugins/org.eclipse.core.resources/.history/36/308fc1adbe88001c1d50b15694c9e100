@@ -1,0 +1,10 @@
+package com.bjpowernode.javase.test002;
+
+// ÉßÀà
+public class Snake {
+	
+	public void eat() {
+		System.out.println("ÉßÍÌÏó£¡");
+	}
+
+}

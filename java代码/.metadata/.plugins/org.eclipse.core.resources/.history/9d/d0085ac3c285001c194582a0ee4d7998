@@ -1,0 +1,14 @@
+package com.bjpowernode.javase.test012;
+
+/**
+ * 关于java语言当中的继承：
+ * 	1. 继承是面向对象三大特征之一，三大特征分别是：封装、继承、多态
+ * 	2. 继承的基本作用是：代码复用。但是继承最重要的作用是：有了继承才有了以后方法的覆盖和多态机制  
+ *
+ */
+public class ExtendsTest {
+
+	public static void main(String[] args) {
+		
+	}
+}

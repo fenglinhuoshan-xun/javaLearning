@@ -1,0 +1,6 @@
+package com.bjpowernode.javase.test013;
+
+// √®ø∆¿‡
+public class Cat extends Animal {
+
+}

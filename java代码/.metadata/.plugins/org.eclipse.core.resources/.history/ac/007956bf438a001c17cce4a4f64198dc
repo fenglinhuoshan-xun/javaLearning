@@ -1,0 +1,23 @@
+package com.bjpowernode.javase.test006;
+
+public class Exercise {
+	
+	public static void main(String[] args) {
+		
+		calculatePrimeNumber(1,1000);
+
+	}
+	
+	public static int calculatePrimeNumber(int a,int b) {
+		int m = 0;
+		for(int i=a; i<=b; i++) {
+			for(int j=2; i<j; j++) {
+				if(i%j==0) {
+					break;
+				}
+			}
+			m += i;
+		}
+		return m;
+	}
+}

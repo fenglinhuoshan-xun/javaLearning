@@ -1,0 +1,13 @@
+package com.bjpowernode.javase.test003;
+
+public class FinalTest03 {
+
+	public static void main(String[] args) {
+		
+		// 创建用户对象
+		User u = new User(100);
+		
+		// 
+		
+	}
+}

@@ -1,0 +1,13 @@
+package com.bjpowernode.javase.test012;
+
+/**
+ * 关于java语言当中的继承：
+ * 	1. 继承是面向对象三大特征之一，三大特征分别是：封装、继承、多态 
+ *
+ */
+public class ExtendsTest {
+
+	public static void main(String[] args) {
+		
+	}
+}

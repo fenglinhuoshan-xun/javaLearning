@@ -1,0 +1,7 @@
+package com.bjpowernode.javase.test012;
+
+public class Account {
+	
+	private String actnc;
+	private double balance;
+}

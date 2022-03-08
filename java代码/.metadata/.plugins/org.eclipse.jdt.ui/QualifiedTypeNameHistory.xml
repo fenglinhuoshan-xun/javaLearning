@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.bjpowernode.javase.test003.ThisTest2"/>
+    <fullyQualifiedTypeName name="com.bjpowernode.javase.test005.Date"/>
+    <fullyQualifiedTypeName name="com.bjpowernode.javase.test009.Chinese"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="com.bjpowernode.javase.test002.Cat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.bjpowernode.javase.test005.User"/>
+</qualifiedTypeNameHistroy>

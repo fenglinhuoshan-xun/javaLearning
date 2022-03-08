@@ -1,0 +1,15 @@
+package com.bjpowernode.javase.test005;
+
+/**
+ * 访问控制权限修饰符：
+ * 	1. 访问控制权限修饰符来控制元素的访问范围
+ * 	2. 访问控制权限修饰符包括：
+ * 		public 
+ * 		protected
+ * 		缺省
+ * 		private   
+ * 	3. 访问控制权限修饰符可以修饰类、变量、方法...
+ */
+public class Test01 {
+
+}
